@@ -1,1 +1,1 @@
-# BasicImageClassificationTf
+# Basic Image Classification using TensorFlow
